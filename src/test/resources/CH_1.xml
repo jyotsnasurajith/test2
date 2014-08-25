@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>CH_1.jpg</filepath>
+        <Height>24</Height>
+        <name>Channel_One</name>
+        <Width>23</Width>
+        <X>478</X>
+        <XTolerance>10</XTolerance>
+        <Y>336</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>1</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>

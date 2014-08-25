@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <image_compare_region>
+        <filepath>guide_search.jpg</filepath>
+        <Height>42</Height>
+        <name>tv_guide</name>
+        <Width>54</Width>
+        <X>329</X>
+        <XTolerance>10</XTolerance>
+        <Y>45</Y>
+        <YTolerance>10</YTolerance>
+        <red_tolerance>20</red_tolerance>
+        <green_tolerance>20</green_tolerance>
+        <blue_tolerance>20</blue_tolerance>
+        <match_percentage>85.0</match_percentage>
+    </image_compare_region>
+    <search_region>
+        <filepath>guide_search.jpg</filepath>
+        <Height>116</Height>
+        <name>guide_search</name>
+        <Width>268</Width>
+        <X>167</X>
+        <XTolerance>10</XTolerance>
+        <Y>19</Y>
+        <YTolerance>10</YTolerance>
+    </search_region>
+</region_info_list>

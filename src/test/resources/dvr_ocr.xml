@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>dvr_ocr.jpg</filepath>
+        <Height>28</Height>
+        <name>dvr_ocr</name>
+        <Width>47</Width>
+        <X>594</X>
+        <XTolerance>10</XTolerance>
+        <Y>354</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>DVR</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>

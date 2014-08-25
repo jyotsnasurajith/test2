@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>create_locks_pin_dncs.jpg</filepath>
+        <Height>32</Height>
+        <name>create_locks_pin_dncs</name>
+        <Width>237</Width>
+        <X>236</X>
+        <XTolerance>10</XTolerance>
+        <Y>191</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>CREATE LOCKS PIN</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>

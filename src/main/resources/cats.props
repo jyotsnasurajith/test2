@@ -1,0 +1,7 @@
+cats.server.url=http://10.252.253.86/
+cats.user.authToken=17a8602a-d50d-11e0-a350-005056b400d2
+cats.config.url=http://10.252.253.86:8080/cats/
+cats.config.chimps.rest.url = https://chimps-cats-dev.cable.comcast.com/chimps/rest/cats/
+cats.settop.list=00:22:10:21:82:CF
+cats.settop.allocationCategory=AUTOMATION
+cats.lock.duration=10
