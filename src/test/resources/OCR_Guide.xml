@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>OCR_Guide.jpg</filepath>
+        <Height>16</Height>
+        <name>OCR_Guide</name>
+        <Width>58</Width>
+        <X>372</X>
+        <XTolerance>10</XTolerance>
+        <Y>69</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>GUIDE</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>

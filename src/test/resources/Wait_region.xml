@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>Wait_region.jpg</filepath>
+        <Height>38</Height>
+        <name>Wait_region</name>
+        <Width>155</Width>
+        <X>264</X>
+        <XTolerance>10</XTolerance>
+        <Y>222</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>Please Wait</ExpectedResultText>
+        <OCRtimeout>30</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+    <search_region>
+        <filepath>Wait_region.jpg</filepath>
+        <Height>188</Height>
+        <name>Search_area</name>
+        <Width>500</Width>
+        <X>107</X>
+        <XTolerance>10</XTolerance>
+        <Y>151</Y>
+        <YTolerance>10</YTolerance>
+    </search_region>
+</region_info_list>

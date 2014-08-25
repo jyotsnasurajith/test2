@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>     
+    <search_region>
+        <filepath>status_bar.jpg</filepath>
+        <Height>35</Height>
+        <name>status_bar</name>
+        <Width>578</Width>
+        <X>60</X>
+        <XTolerance>10</XTolerance>
+        <Y>404</Y>
+        <YTolerance>10</YTolerance>
+    </search_region>
+</region_info_list>

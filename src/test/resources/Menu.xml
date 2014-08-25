@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>Menu.jpg</filepath>
+        <Height>22</Height>
+        <name>Menu</name>
+        <Width>134</Width>
+        <X>281</X>
+        <XTolerance>10</XTolerance>
+        <Y>330</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>Quick Menu</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>
