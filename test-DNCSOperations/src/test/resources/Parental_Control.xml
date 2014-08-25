@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>Parental_Control.jpg</filepath>
+        <Height>26</Height>
+        <name>Parental_control</name>
+        <Width>181</Width>
+        <X>75</X>
+        <XTolerance>10</XTolerance>
+        <Y>133</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>Parental Control</ExpectedResultText>
+        <OCRtimeout>20</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>

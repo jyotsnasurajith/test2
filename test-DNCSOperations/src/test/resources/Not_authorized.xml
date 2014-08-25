@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<region_info_list>
+    <image_path></image_path>
+    <ocr_region>
+        <filepath>Not_authorized.jpg</filepath>
+        <Height>23</Height>
+        <name>Attention</name>
+        <Width>83</Width>
+        <X>118</X>
+        <XTolerance>10</XTolerance>
+        <Y>213</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>Attention</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+    <ocr_region>
+        <filepath>Not_authorized.jpg</filepath>
+        <Height>34</Height>
+        <name>Not_authorised</name>
+        <Width>230</Width>
+        <X>341</X>
+        <XTolerance>10</XTolerance>
+        <Y>208</Y>
+        <YTolerance>10</YTolerance>
+        <AxisURL></AxisURL>
+        <ExpectedResultText>settop is NOT AUTHORIZED</ExpectedResultText>
+        <OCRtimeout>10</OCRtimeout>
+        <Tolerance>80</Tolerance>
+    </ocr_region>
+</region_info_list>
